@@ -14,4 +14,4 @@ mvn org.apache.maven.plugins:maven-archetype-plugin:3.2.1:generate -DgroupId="ed
 
 Para entender un poco el contexto de nuestra aplicacion podemos observar el siguiente diagrama en el cual tenemos la estructura de como se relaciona con los distintos actores y entidades
 
-![xde](/docs/images/DiagramaDeContexto.png)
+![xde](./docs/images/DiagramaDeContexto.png)
