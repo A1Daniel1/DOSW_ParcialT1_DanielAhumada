@@ -40,3 +40,17 @@ a. **nombre:** Mediator
 b. **tipo de patron:** Comportamiento
 
 c. **justificación:** Tenemos distintos componentes entre lo que es nuestro sistema. Como lo son la inscripción, notificaciones, creacion de eventos por lo cual con este patron de diseño. Asi que para simplificar un poco la comunicacion entre dichos componentes, lo que hacemos es poner un mediador entre ellas.
+
+---
+
+### 📄 Requerimentos 
+
+Para el tema de requerimientos se identificaron los siguientes:
+
+| Requisito | Funcional |
+|------|-------------|
+| Poder crear eventos | si |
+| Notificar de dichos evento |  si |
+| Permitir inscripcion de eventos | si |
+| verificar formato | no |
+| salidad de consola | no |
