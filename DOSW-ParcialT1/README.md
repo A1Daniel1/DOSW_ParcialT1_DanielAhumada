@@ -54,3 +54,4 @@ Para el tema de requerimientos se identificaron los siguientes:
 | Permitir inscripcion de eventos | si |
 | verificar formato | no |
 | salidad de consola | no |
+
