@@ -120,3 +120,10 @@ La implementación de los requerimientos identificados de EventSync se desglosa 
 | **ID de la Historia de Uso asociada** | HU-01 |
 | **Descripción** | *Como Profesor quiero poder tener un medio para poder registrar un evento* |
 | **Tareas requisito** | *ninguna* |
+
+
+---
+
+## Diagrama de clases
+
+![xd](./docs/images/diagrama.png)
