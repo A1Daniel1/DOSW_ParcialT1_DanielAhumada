@@ -78,3 +78,45 @@ Dentro de los requisitos los casos de uso mas revelantes son inscribir y crear e
 
 ---
 
+# 🤑 Planeación del Sistema
+
+## Desglose de trabajo: Épicas, Historias de Usuario y Tareas
+
+La implementación de los requerimientos identificados de EventSync se desglosa de la siguiente manera:
+
+### 1. Épica:
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | EP-01 |
+| **Título** | Crear sistema de eventos |
+| **Descripción** | *Crear un sistema de registros para que se puedan gestionar los eventos, desde modificarlos hasta inscribirse en ellos* |
+| **Stakeholder** | *comunidad educativa* |
+
+### 2. Historias de usuario:
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | HU-01 |
+| **Título** | |
+| **Descripción** | *Como Profesor quiero crear un evento para invitar a la comunidad* |
+| **Prioridad** | *[Alta]* |
+| **Estimación** | 52 |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | HU-02 |
+| **Título** | |
+| **Descripción** | *Como Estudiante quiero inscribir un evento para participar en el* |
+| **Prioridad** | *[Alta]* |
+| **Estimación** | 52 |
+
+### 3. Tareas:
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | TR-01 |
+| **Título** | crear CLI para registro de eventos |
+| **ID de la Historia de Uso asociada** | HU-01 |
+| **Descripción** | *Como Profesor quiero poder tener un medio para poder registrar un evento* |
+| **Tareas requisito** | *ninguna* |
