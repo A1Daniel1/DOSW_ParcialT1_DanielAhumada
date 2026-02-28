@@ -55,3 +55,26 @@ Para el tema de requerimientos se identificaron los siguientes:
 | verificar formato | no |
 | salidad de consola | no |
 
+---
+
+Dentro de los requisitos los casos de uso mas revelantes son inscribir y crear evento
+
+![xd](./docs/images/inscribir.png)
+
+**COMO** estudiante
+
+**QUIERO** Inscribirmer a un evento
+
+**PARA PODER** participar en el evento
+
+![xd](./docs/images/crear.png)
+
+**COMO** profesor
+
+**QUIERO** Crear un evento
+
+**PARA PODER** gestionarlo e invitar a la comunidad
+
+
+---
+
